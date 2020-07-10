@@ -1,0 +1,12 @@
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\bin\Release\TicTacToe Online Server - UrhobA.exe.config
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\bin\Release\TicTacToe Online Server - UrhobA.exe
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\bin\Release\TicTacToe Online Server - UrhobA.pdb
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\bin\Release\SimpleTCP.dll
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe Online Server - UrhobA.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe_Online_Server___UrhobA.Form1.resources
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe_Online_Server___UrhobA.Properties.Resources.resources
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe Online Server - UrhobA.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe Online Server - UrhobA.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe Online Server - UrhobA.csproj.CopyComplete
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe Online Server - UrhobA.exe
+C:\Users\ahmet\source\repos\TicTacToe Online - UrhobA\TicTacToe Online Server - UrhobA\obj\Release\TicTacToe Online Server - UrhobA.pdb
